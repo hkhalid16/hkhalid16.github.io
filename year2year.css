@@ -1,0 +1,113 @@
+#title{
+	position: absolute;
+    font-size: 250%;
+	top: 0px;
+	left: 850px;	
+}
+
+#yearTitle{
+	position: absolute;
+    font-size: 300%;
+	top: 44px;
+	left: 900px;
+}
+
+#Calendar{
+	position: relative;
+	top: 50px;
+	left: 555px;	
+}
+
+#february{
+	position: absolute;
+	top: 0px;
+	left: 255px;	
+}
+
+#march{
+	position: absolute;
+	top: 0px;
+	left: 511px;	
+}
+
+#april{
+	position: absolute;
+	top: 178px;	
+}
+
+#may{
+	position: absolute;
+	top: 178px;
+	left: 255px;	
+}
+
+#june{
+	position: absolute;
+	top: 178px;
+	left: 511px;	
+}
+
+#july{
+	position: absolute;
+	top: 337px;	
+}
+
+#august{
+	position: absolute;
+	top: 337px;
+	left: 255px;	
+}
+
+#september{
+	position: absolute;
+	top: 337px;
+	left: 511px;	
+}
+
+#october{
+	position: absolute;
+	top: 514px;	
+}
+
+#november{
+	position: absolute;
+	top: 514px;
+	left: 255px;	
+}
+
+#december{
+	position: absolute;
+	top: 514px;
+	left: 511px;	
+}
+
+#previous{
+	position: absolute;
+	top: 105px;
+	left: 682px;
+	cursor: pointer;
+}
+
+#next{
+	position: absolute;
+	top: 105px;
+	left: 1177px;	
+	cursor: pointer;
+}
+
+td{
+	text-align: center;	
+}
+
+.today{
+	background-color: #00ff00;
+	-webkit-border-radius: 50px;
+}
+
+table{
+	cursor: pointer;
+}
+
+#submit{
+	cursor: pointer;
+}

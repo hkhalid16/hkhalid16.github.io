@@ -1,0 +1,44 @@
+table {font-family: Tahoma;
+		color: blue;
+		font-size: 22px;}
+span{
+	color: blue;
+	}
+#Calendar{
+ position: absolute;
+ top: 44px;
+ left: 600px;	
+}
+#previous {
+ display: none;
+ position: absolute;
+ top: 0px;
+ left: 0px;
+ cursor: pointer;
+}
+#next {
+ display: none;
+ position: absolute;
+ top: 0px;
+ left: 681px;
+ cursor: pointer;
+}
+#title {
+ position: absolute;
+ top: 0px;
+ left: 877px;
+ font-size: 22px;
+}
+.today{
+	background-color: #00ff00;
+	-webkit-border-radius: 50px;
+}
+td{
+	text-align: center;	
+}
+#caption{
+	cursor: pointer;
+}
+#submit{
+	cursor: pointer;
+}
